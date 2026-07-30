@@ -6,7 +6,7 @@
     --color-surface: #1F1F1F;
     --color-primary: #E50914;
     --color-primary-hover: #F6121D;
-    --color-text: #FFFFFF;
+    --color-text: #949393;
     --color-text-secondary: #B3B3B3;
     --color-border: #2E2E2E;
 
@@ -39,6 +39,8 @@
     /* ------= SOMBRAS =------ */
 
     --shadows-default: 0 10px 30px rgba(0,0,0,.35);
+
+
 
 
 
